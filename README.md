@@ -13,6 +13,7 @@
 
 Criamos um servidor no Discord onde você pode interagir e conhecer dev's 
 
+[Link do Server](https://zee.gl/v3QT)
 
 
   
